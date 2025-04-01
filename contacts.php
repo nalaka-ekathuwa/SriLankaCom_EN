@@ -25,16 +25,16 @@
         <div class="breadcrumb-outer">
             <div class="container">
                 <div class="breadcrumb-content text-center">
-                    <h1 class="mb-3">Свяжитесь с нами</h1>
-                    <!--<h1 class="mb-3">Contact Us</h1>-->
+                    <!-- <h1 class="mb-3">Свяжитесь с нами</h1> -->
+                    <h1 class="mb-3">Contact Us</h1>
 
                     <nav aria-label="breadcrumb" class="d-block">
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#">Главная</a></li>
-                            <!--<li class="breadcrumb-item"><a href="#">Home</a></li>-->
+                            <!-- <li class="breadcrumb-item"><a href="#">Главная</a></li> -->
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
 
-                            <li class="breadcrumb-item active" aria-current="page">Свяжитесь с нами</li>
-                            <!--<li class="breadcrumb-item active" aria-current="page">Contact Us</li>-->
+                            <!-- <li class="breadcrumb-item active" aria-current="page">Свяжитесь с нами</li> -->
+                            <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
 
                         </ul>
                     </nav>
@@ -54,13 +54,12 @@
                         <div class="contact-info bg-white">
                             <div class="contact-info-title text-center mb-4 px-5">
 
-                                <h3 class="mb-1">ИНФОРМАЦИЯ О НАС</h3>
-                                <!--<h3 class="mb-1">INFORMATION ABOUT US</h3>-->
+                                <!-- <h3 class="mb-1">ИНФОРМАЦИЯ О НАС</h3> -->
+                                <h3 class="mb-1">INFORMATION ABOUT US</h3>
 
-                                <p class="mb-0">Получите подробную информацию о наших услугах, ценностях и миссии. Мы
-                                    стремимся сделать ваше путешествие незабываемым!</p>
-                                <!--<p class="mb-0">Get detailed information about our services, values, and mission. We strive to make your journey unforgettable!</p>-->
-                                ```
+                                <!-- <p class="mb-0">Получите подробную информацию о наших услугах, ценностях и миссии. Мы
+                                    стремимся сделать ваше путешествие незабываемым!</p> -->
+                                <p class="mb-0">Get detailed information about our services, values, and mission. We strive to make your journey unforgettable!</p>
 
                             </div>
                             <div class="contact-info-content row ">
@@ -70,11 +69,11 @@
                                             <i class="fa fa-map-marker-alt theme"></i>
                                         </div>
                                         <div class="info-content">
-                                            <h3>Местоположение офиса</h3>
-                                            <!--<h3>Office Location</h3>-->
+                                            <!-- <h3>Местоположение офиса</h3> -->
+                                            <h3>Office Location</h3>
 
-                                            <p class="m-0">445, Патхегама, Балапития, Южная провинция, Шри-Ланка</p>
-                                            <!--<p class="m-0">445 Pathegama Balapitiya, Southern Province Sri Lanka</p>-->
+                                            <!-- <p class="m-0">445, Патхегама, Балапития, Южная провинция, Шри-Ланка</p> -->
+                                            <p class="m-0">445 Pathegama Balapitiya, Southern Province Sri Lanka</p>
 
                                         </div>
                                     </div>
@@ -85,12 +84,9 @@
                                             <i class="fa fa-phone theme"></i>
                                         </div>
                                         <div class="info-content">
-                                            <h3>Номер телефона</h3>
-                                            <!--<h3>Phone Number</h3>-->
-
+                                            <!-- <h3>Номер телефона</h3> -->
+                                            <h3>Phone Number</h3>
                                             <p class="m-0">+39-344-685-7143</p>
-                                            <!-- <p class="m-0">+39-344-685-7143</p> -->
-
                                         </div>
                                     </div>
                                 </div>
@@ -100,8 +96,8 @@
                                             <i class="fa fa-envelope theme"></i>
                                         </div>
                                         <div class="info-content ps-4">
-                                            <h3>Электронная почта</h3>
-                                            <!--<h3>Email Address</h3>-->
+                                            <!-- <h3>Электронная почта</h3> -->
+                                            <h3>Email Address</h3>
 
                                             <p class="m-0"><a href="/cdn-cgi/l/email-protection" class="__cf_email__"
                                                     data-cfemail="bad3d4dcd5fac8dfdbd6c9d2d3dfd6de94d9d5d7">[suhan&#160;@gmail.com]</a>

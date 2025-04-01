@@ -3,25 +3,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- OG tags for most social media -->
-    <meta property="og:title" content="Шри-Ланка Коммерческий тур">
+    <meta property="og:title" content="Sri Lanka Commercial Tour">
     <meta property="og:description"
-        content="Исследуйте удивительные уголки Шри-Ланки вместе с нами. Мы организуем незабываемые туры, которые подарят вам яркие впечатления и уникальные эмоции.">
+        content="Explore the amazing corners of Sri Lanka with us. We organize unforgettable tours that will give you vivid impressions and unique emotions.">
     <meta property="og:image" content="https://srilankacomtours.com/images/logo.png">
     <meta property="og:url" content="https://srilankacomtours.com/">
 
     <!-- tweeter cards for tweeter -->
-    <meta name="twitter:card" content="Ланку вместе с нами">
-    <meta name="twitter:title" content="Шри-Ланка Коммерческий тур">
+    <meta name="twitter:card" content="Travel with us">
+    <meta name="twitter:title" content="Sri Lanka Commercial Tour">
     <meta name="twitter:description"
-        content="Исследуйте удивительные уголки Шри-Ланки вместе с нами. Мы организуем незабываемые туры, которые подарят вам яркие впечатления и уникальные эмоции.">
+        content="Explore the amazing corners of Sri Lanka with us. We organize unforgettable tours that will give you vivid impressions and unique emotions.">
     <meta name="twitter:image" content="https://srilankacomtours.com/images/logo.png">
 
     <!-- standard description meta -->
     <meta name="description"
-        content="Исследуйте удивительные уголки Шри-Ланки вместе с нами. Мы организуем незабываемые туры, которые подарят вам яркие впечатления и уникальные эмоции.">
+        content="Explore the amazing corners of Sri Lanka with us. We organize unforgettable tours that will give you vivid impressions and unique emotions.">
 
 
-    <title>Шри ланка ком тур - Ваш туристический партнер</title>
+    <title>Sri Lanka Com Tour - Your Travel Partner</title>
     <!--<title>Sri Lanka Com - Travel Partner</title>-->
 
     <!-- Favicon -->

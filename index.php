@@ -359,7 +359,7 @@
                                         <div class="counter-item border-end pe-4">
                                             <div class="counter-content">
                                                 <h2 class="value mb-0 theme">10</h2>
-                                                <span class="m-0">Years of Experiences</span><!--Years Experiences-->
+                                                <span class="m-0">Years Experiences</span><!--Years Experiences-->
                                             </div>
                                         </div>
                                     </div>

@@ -47,12 +47,12 @@
         <div id="banner_image" class="breadcrumb-outer">
             <div class="container">
                 <div class="breadcrumb-content text-center">
-                    <h1 class="mb-3">Сетка туров</h1>
+                    <h1 class="mb-3">Tour Grid</h1>
                     <nav aria-label="breadcrumb" class="d-block">
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="index.php">Главная</a></li>
-                            <li class="breadcrumb-item"><a href="destination.php">Список направлений</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">детали пункта назначения</li>
+                            <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                            <li class="breadcrumb-item"><a href="destination.php">Destination List</a></li>
+                            <li class="breadcrumb-item active" aria-current="page">Destination Details</li>
                         </ul>
                     </nav>
                 </div>
@@ -125,7 +125,7 @@
                         </div>
 
                         <div id="single-gallery" class="description mb-2">
-                            <h4 class="mb-2">Галерея</h4>
+                            <h4 class="mb-2">Gallery</h4>
                             <div class="services-image d-md-flex">
                                 <div class="me-md-2 rounded overflow-hidden mb-2"><img
                                         src="<?php echo $des_data['gallery1']; ?>" alt="" class="w-100"></div>
@@ -135,7 +135,7 @@
                         </div>
 
                         <div id="single-map" class="single-map mb-4">
-                            <h4>Карта</h4>
+                            <h4>Map</h4>
                             <div class="map rounded overflow-hidden">
                                 <div style="width: 100%">
                                     <iframe class=" rounded overflow-hidden" height="400"
@@ -145,26 +145,26 @@
                         </div>
 
                         <div id="single-review" class="single-review mb-4">
-                        <h4>Средний рейтинг</h4>
-<!--<h4>Average Reviews</h4>-->
+                            <!-- <h4>Средний рейтинг</h4> -->
+                            <h4>Average Reviews</h4>
 
                             <div class="row d-flex align-items-center">
                                 <div class="col-lg-4 col-md-4">
                                     <div class="review-box bg-title text-center py-4 p-2 rounded">
                                         <h2 class="mb-1 white"><span>4.9</span>/5</h2>
-                                        <h4 class="white mb-1">"Чувствовать намного хуже, чем думать"</h4>
-<!--<h4 class="white mb-1">"Feel so much worse than thinking"</h4>-->
+                                        <!-- <h4 class="white mb-1">"Чувствовать намного хуже, чем думать"</h4> -->
+                                        <h4 class="white mb-1">"Feel so much worse than thinking"</h4>
 
-<p class="mb-0 white font-italic">На основе 40 отзывов</p>
-<!--<p class="mb-0 white font-italic">From 40 Reviews</p>-->
+                                        <!-- <p class="mb-0 white font-italic">На основе 40 отзывов</p> -->
+                                        <p class="mb-0 white font-italic">From 40 Reviews</p>
 
                                     </div>
                                 </div>
                                 <div class="col-lg-8 col-md-8">
                                     <div class="review-progress">
                                         <div class="progress-item mb-1">
-                                        <p class="mb-0">Чистота</p>
-<!--<p class="mb-0">Cleanliness</p>-->
+                                            <!-- <p class="mb-0">Чистота</p> -->
+                                            <p class="mb-0">Cleanliness</p>
 
                                             <div class="progress rounded">
                                                 <div class="progress-bar bg-theme" role="progressbar" aria-valuenow="40"
@@ -174,8 +174,8 @@
                                             </div>
                                         </div>
                                         <div class="progress-item mb-1">
-                                        <p class="mb-0">Удобства</p>
-<!--<p class="mb-0">Facilities</p>-->
+                                            <!-- <p class="mb-0">Удобства</p> -->
+                                            <p class="mb-0">Facilities</p>
 
                                             <div class="progress rounded">
                                                 <div class="progress-bar bg-theme" role="progressbar" aria-valuenow="30"
@@ -185,8 +185,8 @@
                                             </div>
                                         </div>
                                         <div class="progress-item mb-1">
-                                        <p class="mb-0">Соотношение цены и качества</p>
-<!--<p class="mb-0">Value for money</p>-->
+                                            <!-- <p class="mb-0">Соотношение цены и качества</p> -->
+                                            <p class="mb-0">Value for money</p>
 
                                             <div class="progress rounded">
                                                 <div class="progress-bar bg-theme" role="progressbar" aria-valuenow="60"
@@ -196,8 +196,8 @@
                                             </div>
                                         </div>
                                         <div class="progress-item mb-1">
-                                        <p class="mb-0">Обслуживание</p>
-<!--<p class="mb-0">Service</p>-->
+                                            <!-- <p class="mb-0">Обслуживание</p> -->
+                                            <p class="mb-0">Service</p>
 
                                             <div class="progress rounded">
                                                 <div class="progress-bar bg-theme" role="progressbar" aria-valuenow="20"
@@ -207,8 +207,8 @@
                                             </div>
                                         </div>
                                         <div class="progress-item">
-                                        <p class="mb-0">Местоположение</p>
-<!--<p class="mb-0">Location</p>-->
+                                            <!-- <p class="mb-0">Местоположение</p> -->
+                                            <p class="mb-0">Location</p>
 
                                             <div class="progress rounded">
                                                 <div class="progress-bar bg-theme" role="progressbar" aria-valuenow="45"
@@ -224,8 +224,8 @@
 
                         <!-- blog review -->
                         <div id="single-add-review" class="single-add-review">
-                        <h4>Написать отзыв</h4>
-<!--<h4>Write a Review</h4>-->
+                            <!-- <h4>Написать отзыв</h4> -->
+                            <h4>Write a Review</h4>
 
                             <form>
                                 <div class="row">
@@ -241,14 +241,14 @@
                                     </div>
                                     <div class="col-md-12">
                                         <div class="form-group mb-2">
-                                        <textarea>Комментарий</textarea>
-                                        <!-- <textarea>Comment</textarea> -->
+                                            <!-- <textarea>Комментарий</textarea> -->
+                                            <textarea>Comment</textarea>
                                         </div>
                                     </div>
                                     <div class="col-md-6">
                                         <div class="form-btn">
-                                        <a href="#" class="nir-btn">Отправить отзыв</a>
-                                        <!-- <a href="#" class="nir-btn">Submit Review</a> -->
+                                            <!-- <a href="#" class="nir-btn">Отправить отзыв</a> -->
+                                            <a href="#" class="nir-btn">Submit Review</a>
                                         </div>
                                     </div>
                                 </div>
@@ -284,29 +284,29 @@
                             </div> -->
 
                             <div id="destination_sidebar" class="sidebar-item mb-4">
-                                <h4 class="">Простое руководство</h4>
+                                <h4 class="">Simple Guide</h4>
                                 <ul class="sidebar-category">
                                     <!-- <li><a href="#banner_image">Page Banner</a></li> -->
-                                    <li><a href="#cover-image">Название направления</a></li>
-                                    <!--<li><a href="#cover-image">Destination Title</a></li>-->
+                                    <!-- <li><a href="#cover-image">Название направления</a></li> -->
+                                    <li><a href="#cover-image">Destination Title</a></li>
 
-                                    <li><a href="#single-description">Описание</a></li>
-                                    <!--<li><a href="#single-description">Description</a></li>-->
+                                    <!-- <li><a href="#single-description">Описание</a></li> -->
+                                    <li><a href="#single-description">Description</a></li>
 
                                     <!-- <li><a href="#more-info">Дополнительная информация</a></li> -->
                                     <!--<li><a href="#more-info">Additional Info</a></li>-->
 
-                                    <li><a href="#single-gallery">Галерея</a></li>
-                                    <!--<li><a href="#single-gallery">Gallery</a></li>-->
+                                    <!-- <li><a href="#single-gallery">Галерея</a></li> -->
+                                    <li><a href="#single-gallery">Gallery</a></li>
 
-                                    <li><a href="#single-map">Карта</a></li>
-                                    <!--<li><a href="#single-map">Map</a></li>-->
+                                    <!-- <li><a href="#single-map">Карта</a></li> -->
+                                    <li><a href="#single-map">Map</a></li>
 
-                                    <li><a href="#single-review">Отзывы</a></li>
-                                    <!--<li><a href="#single-review">Reviews</a></li>-->
+                                    <!-- <li><a href="#single-review">Отзывы</a></li> -->
+                                    <li><a href="#single-review">Reviews</a></li>
 
-                                    <li><a href="#single-add-review">Комментарий</a></li>
-                                    <!--<li><a href="#single-add-review">Comment</a></li>-->
+                                    <!-- <li><a href="#single-add-review">Комментарий</a></li> -->
+                                    <li><a href="#single-add-review">Comment</a></li>
 
                                 </ul>
                             </div>

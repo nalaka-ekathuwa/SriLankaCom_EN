@@ -78,7 +78,7 @@
                             <img src="images/travel.png" alt="">
                         </div>
                     </div>
-                    <div class="col-lg-12">
+                    <div class="col-lg-12" style="padding-top:20px;" >
                         <!-- Counter -->
                         <div class="counter-main w-75 float-start z-index3 position-relative">
                             <div class="counter p-4 pb-0 box-shadow bg-white rounded mt-minus">

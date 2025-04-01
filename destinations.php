@@ -26,16 +26,16 @@
         <div class="breadcrumb-outer">
             <div class="container">
                 <div class="breadcrumb-content text-center">
-                    <h1 class="mb-3">Список направлений</h1>
-                    <!--<h1 class="mb-3">Destination List</h1>-->
+                    <!-- <h1 class="mb-3">Список направлений</h1> -->
+                    <h1 class="mb-3">Destination List</h1>
 
                     <nav aria-label="breadcrumb" class="d-block">
                         <ul class="breadcrumb">
-                            <li class="breadcrumb-item"><a href="#">Главная</a></li>
-                            <!--<li class="breadcrumb-item"><a href="#">Home</a></li>-->
+                            <!-- <li class="breadcrumb-item"><a href="#">Главная</a></li> -->
+                            <li class="breadcrumb-item"><a href="#">Home</a></li>
 
-                            <li class="breadcrumb-item active" aria-current="page">Список направлений</li>
-                            <!--<li class="breadcrumb-item active" aria-current="page">Destination Lists</li>-->
+                            <!-- <li class="breadcrumb-item active" aria-current="page">Список направлений</li> -->
+                            <li class="breadcrumb-item active" aria-current="page">Destination Lists</li>
                         </ul>
                     </nav>
                 </div>
@@ -49,15 +49,14 @@
     <section class="trending pb-0 pt-6">
         <div class="container">
             <div class="section-title mb-6 w-50 mx-auto text-center">
-                <h4 class="mb-1 theme1">Лучшие направления</h4>
-                <!--<h4 class="mb-1 theme1">Top Destinations</h4>-->
+                <!-- <h4 class="mb-1 theme1">Лучшие направления</h4> -->
+                <h4 class="mb-1 theme1">Top Destinations</h4>
 
-                <h2 class="mb-1">Исследуйте <span class="theme">лучшие направления</span></h2>
-                <!--<h2 class="mb-1">Explore <span class="theme">Top Destinations</span></h2>-->
+                <!-- <h2 class="mb-1">Исследуйте <span class="theme">лучшие направления</span></h2> -->
+                <h2 class="mb-1">Explore <span class="theme">Top Destinations</span></h2>
 
-                <p>Откройте для себя удивительные места, которые подарят вам незабываемые впечатления и яркие эмоции.
-                </p>
-                <!--<p>Discover amazing places that will give you unforgettable experiences and vibrant emotions.</p>-->
+                <!-- <p>Откройте для себя удивительные места, которые подарят вам незабываемые впечатления и яркие эмоции.</p> -->
+                <p>Discover amazing places that will give you unforgettable experiences and vibrant emotions.</p>
             </div>
             <div class="row align-items-center">
             <?php foreach ($destinations as $destination): ?>
@@ -93,16 +92,16 @@
                 <div class="call-banner-inner w-75 mx-auto text-center px-5">
                     <div class="trend-content-main">
                         <div class="trend-content mb-5 pb-2 px-5">
-                            <h5 class="mb-1 theme">Любите места, куда вы отправляетесь</h5>
-                            <!--<h5 class="mb-1 theme">Love Where You're Going</h5>-->
+                            <!-- <h5 class="mb-1 theme">Любите места, куда вы отправляетесь</h5> -->
+                            <h5 class="mb-1 theme">Love Where You're Going</h5>
 
-                            <h2><a href="detail-fullwidth.html">Исследуйте свою жизнь, <span class="theme1">
-                                        путешествуйте туда, куда хотите!</span></a></h2>
-                            <!--<h2><a href="detail-fullwidth.html">Explore Your Life, <span class="theme1"> Travel Where You Want!</span></a></h2>-->
+                            <!-- <h2><a href="detail-fullwidth.html">Исследуйте свою жизнь, <span class="theme1">
+                                        путешествуйте туда, куда хотите!</span></a></h2> -->
+                            <h2><a href="detail-fullwidth.html">Explore Your Life, <span class="theme1"> Travel Where You Want!</span></a></h2>
 
-                            <p>Откройте для себя новые горизонты, наслаждаясь каждым моментом путешествия и создавая
-                                незабываемые воспоминания.</p>
-                            <!--<p>Discover new horizons, enjoy every moment of your journey, and create unforgettable memories.</p>-->
+                            <!-- <p>Откройте для себя новые горизонты, наслаждаясь каждым моментом путешествия и создавая
+                                незабываемые воспоминания.</p> -->
+                            <p>Discover new horizons, enjoy every moment of your journey, and create unforgettable memories.</p>
                         </div>
                         <div class="video-button text-center position-relative">
                             <div class="call-button text-center">

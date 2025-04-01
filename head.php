@@ -66,43 +66,43 @@ header("Permissions-Policy: geolocation=(), microphone=()");
 $testimonial = array(
     array(
         "img" => "images/testimonial/img1.jpg",
-        "description" => "Мое путешествие с этим агентством было незабываемым! Всё было организовано идеально, гиды профессиональны, а маршруты очень интересные. Я обязательно обращусь сюда снова!",
-        "name" => "Саша",
-        "title" => "Путешественник"
+        "description" => "My trip with this agency was unforgettable! Everything was organized perfectly, the guides were professional, and the routes were very interesting. I will definitely contact them again!",
+        "name" => "Sasha",
+        "title" => "Traveler"
     ),
     array(
         "img" => "images/testimonial/img2.jpg",
-        "description" => "Моя поездка с Суханом была великолепной! Он был не только отличным гидом, но и сделал мое путешествие по-настоящему увлекательным. Его знания истории и культуры превзошли все мои ожидания. Обязательно порекомендую его своим друзьям!",
-        "name" => "Анастасия",
-        "title" => "Путешественник"
+        "description" => "My trip with Suhan was amazing! Not only was he a great guide, but he also made my trip truly exciting. His knowledge of history and culture exceeded all my expectations. I will definitely recommend him to my friends!",
+        "name" => "Anastasia",
+        "title" => "Traveler"
     ),
     array(
         "img" => "images/testimonial/img3.jpg",
-        "description" => "Сухан был невероятным гидом! Его профессионализм, знания и внимание к деталям сделали мое путешествие незабываемым. Я с радостью порекомендую его всем, кто хочет получить лучший опыт путешествий!",
-        "name" => "Татьяна",
-        "title" => "Путешественник"
+        "description" => "Sukhan was an incredible guide! His professionalism, knowledge and attention to detail made my trip unforgettable. I would highly recommend him to anyone looking for the best travel experience!",
+        "name" => "Tatiana",
+        "title" => "Traveler"
     )
 );
 
 $guides = array(
     array(
         "img" => "images/team/Suhan.jpg",
-        "name" => "Сухан",
-        "title" => "Гид, говорящий по-русски"
+        "name" => "Suhan",
+        "title" => "English Speaking Guide"
         // "title" => "Russian Speaking Guide"
 
     ),
     array(
         "img" => "images/team/kaai.jpg",
-        "name" => "Кани",
-        "title" => "Гид, говорящий по-русски"
+        "name" => "Kani",
+        "title" => "English Speaking Guide"
         // "title" => "Russian Speaking Guide"
 
     ),
     array(
         "img" => "images/team/maaga.jpg",
-        "name" => "Мага",
-        "title" => "Гид, говорящий по-русски"
+        "name" => "Maga",
+        "title" => "English Speaking Guide"
         // "title" => "Russian Speaking Guide"
 
     )
